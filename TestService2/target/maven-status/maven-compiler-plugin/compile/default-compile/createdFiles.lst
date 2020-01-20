@@ -1,0 +1,10 @@
+com/example/demo/Application.class
+com/example/demo/exception/BookAlreadyExistsException.class
+com/example/demo/repository/BookRepository.class
+com/example/demo/model/Book.class
+com/example/demo/model/Author.class
+com/example/demo/controller/BookController.class
+com/example/demo/exception/BookListEmptyException.class
+com/example/demo/service/BookService.class
+com/example/demo/service/BookServiceImpl.class
+com/example/demo/exception/BookNotFoundException.class
